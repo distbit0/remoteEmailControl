@@ -1,0 +1,3 @@
+Command '['./code.sh']' returned non-zero exit status 2
+Command '['./code.sh']' returned non-zero exit status 2
+Command '['./code.sh']' returned non-zero exit status 2
