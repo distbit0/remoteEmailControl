@@ -10,10 +10,10 @@ import sys
 from random import randint
 
 
-allowedEmails = ["alexpimania@keemail.me", "alexpimania@protonmail.com", "alex.pasfield@education.nsw.gov.au", "brianpasf@gmail.com", "alexpimania@gmail.com", "randomiseme33@gmail.com"]
+allowedEmails = ["a@b.c","d@e.f]
 usingFile = False
-gmailEmail = "snazzyemailsender@gmail.com"
-gmailPassword = "wsxcdeWSXCDE99!"
+gmailEmail = "a@b.c"
+gmailPassword = "pswd"
 errorMessage = "That's an error!"
 
 def saveAndRunCode(code):
